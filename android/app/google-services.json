@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "495238180187",
+    "firebase_url": "https://boilermake1-9bf9b.firebaseio.com",
+    "project_id": "boilermake1-9bf9b",
+    "storage_bucket": "boilermake1-9bf9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495238180187:android:ee604fae71783ba4",
+        "android_client_info": {
+          "package_name": "com.boilermake.boilermakeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495238180187-2ac44lkea90kuvhkob17tmrl3umonl3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAslKpLrlh-aHMWLidP5j3ILySKjYUUtT0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
